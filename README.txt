@@ -8,3 +8,9 @@ have fun,
 
 holger krekel, holger at merlinux eu
 
+Fork Status
+-----------
+This is a fork of Holger's fantastic execnet. The master branch is the branch that holds
+all patches (if any) that modify the upstream code.
+
+Upstream code is kept in the vanilla branch.
